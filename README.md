@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vivida1
+- 👋 Hi, I’m @Vivida
 
 
 <!---
